@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+	<SettingsSerializer>
+		<CheckBox Name="chkDisableDamageShield" Value="False" />
+		<ComboBox Name="cboLanguage" Value="한국어" />
+		<ComboBox Name="cboParseFilter" Value="Alliance" />
+		<CheckBox Name="chkDisableCombinePets" Value="True" />
+		<CheckBox Name="chkDisableCombatLog" Value="False" />
+		<TextBox Name="txtLogFileDirectory" Value="" />
+		<CheckBox Name="chkSimulateDoTCrits" Value="False" />
+		<CheckBox Name="chkShowRealDoTs" Value="False" />
+		<ComboBox Name="cboFilterIP" Value="All (Default)" />
+		<CheckBox Name="chkUsePcap" Value="False" />
+		<CheckBox Name="chkDisableSocketFilter" Value="False" />
+		<CheckBox Name="chkShowDebug" Value="False" />
+		<CheckBox Name="chkEnableBenchmark" Value="False" />
+	</SettingsSerializer>
+</Config>
