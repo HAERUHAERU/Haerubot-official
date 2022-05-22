@@ -1,0 +1,28 @@
+{
+  "Overlays": [],
+  "FollowLatestLog": false,
+  "HideOverlaysWhenNotActive": true,
+  "HideOverlayDuringCutscene": true,
+  "ErrorReports": false,
+  "UpdateCheck": false,
+  "WSServerIP": "127.0.0.1",
+  "WSServerPort": 10501,
+  "WSServerSSL": false,
+  "WSServerRunning": false,
+  "TunnelRegion": null,
+  "Version": null,
+  "LastUpdateCheck": "2022-05-23T00:21:07.7684855+09:00",
+  "EventSourceConfigs": {
+    "MiniParse": {
+      "OverlayData": {},
+      "UpdateInterval": 1,
+      "EnmityIntervalMs": 100,
+      "SortKey": "encdps",
+      "SortDesc": true,
+      "UpdateDpsDuringImport": false,
+      "EndEncounterAfterWipe": false,
+      "EndEncounterOutOfCombat": false,
+      "LogLines": false
+    }
+  }
+}
