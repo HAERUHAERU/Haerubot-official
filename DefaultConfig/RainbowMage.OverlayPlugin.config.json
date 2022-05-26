@@ -20,8 +20,8 @@
       "SortKey": "encdps",
       "SortDesc": true,
       "UpdateDpsDuringImport": false,
-      "EndEncounterAfterWipe": false,
-      "EndEncounterOutOfCombat": false,
+      "EndEncounterAfterWipe": true,
+      "EndEncounterOutOfCombat": true,
       "LogLines": false
     }
   }
