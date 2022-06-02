@@ -21,7 +21,7 @@
       "SortDesc": true,
       "UpdateDpsDuringImport": false,
       "EndEncounterAfterWipe": true,
-      "EndEncounterOutOfCombat": true,
+      "EndEncounterOutOfCombat": false,
       "LogLines": false
     }
   }
