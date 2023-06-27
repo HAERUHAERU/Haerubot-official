@@ -13,6 +13,7 @@
 		<CheckBox Name="chkUsePcap" Value="False" />
 		<CheckBox Name="chkDisableSocketFilter" Value="False" />
 		<CheckBox Name="chkShowDebug" Value="False" />
-		<CheckBox Name="chkEnableBenchmark" Value="False" />
+		<CheckBox Name="chkEnableBenchmark" Value="False" />		
+		<CheckBox Name="chkUseDeucalion" Value="True" />
 	</SettingsSerializer>
 </Config>
