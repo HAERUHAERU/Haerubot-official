@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Config>
 	<SettingsSerializer>
 		<CheckBox Name="chkDisableDamageShield" Value="False" />
@@ -9,11 +9,8 @@
 		<TextBox Name="txtLogFileDirectory" Value="" />
 		<CheckBox Name="chkSimulateDoTCrits" Value="False" />
 		<CheckBox Name="chkShowRealDoTs" Value="False" />
-		<ComboBox Name="cboFilterIP" Value="All (Default)" />
-		<CheckBox Name="chkUsePcap" Value="False" />
-		<CheckBox Name="chkDisableSocketFilter" Value="False" />
 		<CheckBox Name="chkShowDebug" Value="False" />
-		<CheckBox Name="chkEnableBenchmark" Value="False" />		
-		<CheckBox Name="chkUseDeucalion" Value="True" />
+		<CheckBox Name="chkEnableBenchmark" Value="False" />
+		<ComboBox Name="cboRegion" Value="한국어" />
 	</SettingsSerializer>
 </Config>
